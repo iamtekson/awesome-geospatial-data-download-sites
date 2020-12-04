@@ -15,9 +15,18 @@ Below are the major sources of open source geospatial data download sites. If yo
 | __[Terra Populus](https://terra.ipums.org/)__ | Terra Populus (TerraPop for short) integrates census data from over 160 countries around the world. In fact, it spans up to six decades for household-level and aggregate data for more than 80 countries. | Environmental, Land use, Land cover, Climate |
 | __[FAO GeoNetwork](http://www.fao.org/geonetwork/srv/en/main.home)__ | It is the portal of free GIS data from the United Nations. The focus of GeoNetwork is to improve global sustainable development. For example, global agriculture, food security, and fisheries are some of its key free GIS data. | Agriculture, fisheries, land resource GIS data | 
 | __[CKAN](https://demo.ckan.org/dataset)__ | This is a demo site for CKAN, the leading Open Data portal sofware. Data hosted on this site might be deleted at any time! | .geojson, kml, .geotiff, .shp, .csv |
+| __[PALSAR Forest/Non-Forest map](https://www.eorc.jaxa.jp/ALOS/en/palsar_fnf/fnf_index.htm)__ | A very detailed (50m resolution) forest map for the whole globe, created from SAR data. | PSRFITS |
+| __[UNEP WCMC](http://datadownload.unep-wcmc.org/datasets)__ | Variety of datasets from the United Nations Environment Programme including global wetlands, global distribution of coral reefs, mangrove distributions and more. | Dryland, Biogeographic, Mountains, Forest, Wetland |
+| __[UNEP GEOdata](https://datacore-gn.unepgrid.ch/geonetwork//srv/eng/catalog.search;jsessionid=3FD1A35F6A0389D6E61AD45A13DC4483#/home)__ | A wide range of data from the United Nations Environment Programme including Nighttime Lights, Pollutant Emissions, Commercial Shipping Activity, Protected Areas and Administrative Boundaries. To get data, choose Advanced Search and select Geospatial Data Sets from the top drop-down link | environment, oceans, elevation, society, climatoogy, meterology |
+| __[GADM](https://gadm.org/data.html)__ | Global administrative boundaries, with extensive attribute sets. Covers countries and up to four levels of internal administrative boundary (states, departments, counties etc). | Administrative boundary (.shp, .rds, .kml, geopackage) |
+| __[World Borders Dataset](http://thematicmapping.org/downloads/world_borders.php)__ | World country borders with attributes including country codes (FIPS, ISO etc), area and populations. | Administrative boundary (.shp) |
+| __[Global Land Use Dataset](http://nelson.wisc.edu/sage/data-and-models/global-land-use/grid.php)__ | Gridded data at 0.5 degree resolution showing population density, potential natural vegetation, cropland extent, grazing land extent, built-up land extent, crop extent (for 18 major crops) and land suitability for cultivation | Veretation, cropland extent, built-up land extent etc. |
+| __[OSM Metro Extracts](https://www.interline.io/osm/extracts/)__ | City-sized extracts of the OpenStreetMap dataset, updated weekly for cities across the world | .geojson, OSM (.PBF) |
+
+
 
 
 ### References
 
 1. [https://freegisdata.rtwilson.com/](https://freegisdata.rtwilson.com/)
-2. [https://gisgeography.com/best-free-gis-data-sources-raster-vector/][https://gisgeography.com/best-free-gis-data-sources-raster-vector/]
+2. [https://gisgeography.com/best-free-gis-data-sources-raster-vector/](https://gisgeography.com/best-free-gis-data-sources-raster-vector/)
