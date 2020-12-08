@@ -1,6 +1,6 @@
-# Open source geospatial data download catalog
+# Open geospatial data download catalog
 
-Below are the major sources of open source geospatial data download sites. If you know more, Please send the pull request to this repo.
+Below are the major sources of open geospatial data download sites. If you know more, Please send the pull request to this repo.
 
 | S.N. | Site                                                                                                                                     | Description                                                                                                                                                                                                                                                                                                                             | Data                                                                                                                                        |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
